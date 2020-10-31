@@ -39,7 +39,7 @@ public class IF110119011Latihan23NilaiTerbesardanTerkecil {
         }
         System.out.println("===Hasil Perhitungan===");
         for (i = 0; i < n; i++) {
-            System.out.print("Nilai mahasiswa ke-" + (i+1) + " : " + nilai[i]);
+            System.out.println("Nilai mahasiswa ke-" + (i+1) + " : " + nilai[i]);
     }
         int min = nilai [1];
         int max = nilai [1];
